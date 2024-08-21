@@ -12,7 +12,9 @@ https://personal-u1aragiz.outsystemscloud.com/SQLApp/Entry1.aspx?_ts=63859843875
 $\quad\quad$ Examples
 
 $\quad\quad$ : FOR-XML-PATH-With-STUFF-Example-Code.sql
+
 $\quad\quad$ : PIVOT-Part-1-Example-Code.sql
+
 $\quad\quad$ : PIVOT-Part-2-Example-Code.sql
 
 ### $\quad$ Subqueries
