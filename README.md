@@ -6,7 +6,13 @@ https://personal-u1aragiz.outsystemscloud.com/SQLApp/Entry1.aspx?_ts=63859843875
 
 ## Example of Advance SQL in OutSystems
 
-### $\quad$  ISULL, COALESCE and NULLIF 
+### $\quad$ ISULL, COALESCE and NULLIF 
+
+$\quad\quad$ : ISULL
+
+$\quad\quad$ : COALESCE
+
+$\quad\quad$ : NULLIF
 
 ### $\quad$ Flattens the data 
 
@@ -24,3 +30,20 @@ $\quad\quad$ : Correlated-Subqueries-Example-Code.sql
 
 $\quad\quad$ : EXISTS-Example-Code.sql
 
+### $\quad$ CTEs
+
+$\quad\quad$ : CTEs-Example-Code.sql
+
+$\quad\quad$ : Recursive-CTEs-Example-Code.sql
+
+### $\quad$ Temp Tables
+
+$\quad\quad$ : CREATE-and-INSERT-Example-Code.sql
+
+$\quad\quad$ : DELETE-Example-Code.sql
+
+$\quad\quad$ : Temp-Tables-Example-Code.sql
+
+$\quad\quad$ : TRUNCATE-Example-Code.sql
+
+$\quad\quad$ : Update-Example-Code.sql
