@@ -10,13 +10,14 @@ https://personal-u1aragiz.outsystemscloud.com/SQLApp/Entry1.aspx?_ts=63859843875
 
 ### $\quad$ Flattens the data 
 $\quad\quad$ Examples
-: FOR-XML-PATH-With-STUFF-Example-Code.sql
-: PIVOT-Part-1-Example-Code.sql
-: PIVOT-Part-2-Example-Code.sql
+
+$\quad\quad$ : FOR-XML-PATH-With-STUFF-Example-Code.sql
+$\quad\quad$ : PIVOT-Part-1-Example-Code.sql
+$\quad\quad$ : PIVOT-Part-2-Example-Code.sql
 
 ### $\quad$ Subqueries
 $\quad\quad$ Examples
-:  Scalar-Subqueries-Example-Code.sql
-:  Correlated-Subqueries-Example-Code.sql
-:  EXISTS-Example-Code.sql
+$\quad\quad$ :  Scalar-Subqueries-Example-Code.sql
+$\quad\quad$ :  Correlated-Subqueries-Example-Code.sql
+$\quad\quad$ :  EXISTS-Example-Code.sql
 
