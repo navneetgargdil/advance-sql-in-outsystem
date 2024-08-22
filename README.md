@@ -8,15 +8,17 @@ https://personal-u1aragiz.outsystemscloud.com/SQLApp/Entry1.aspx?_ts=63859843875
 
 ### $\quad$ ISULL, COALESCE and NULLIF 
 
-$\quad\quad$ : ISULL
+$\quad\quad$ : ISNULL+COALESCE.sql
 
-$\quad\quad$ : COALESCE
-
-$\quad\quad$ : NULLIF
+$\quad\quad$ : NULLIF.sql
 
 ### $\quad$ Flattens the data 
 
+$\quad\quad$ : STUFF.sql
+
 $\quad\quad$ : FOR-XML-PATH-With-STUFF-Example-Code.sql
+
+$\quad\quad$ : STRING_AGG.sql
 
 $\quad\quad$ : PIVOT-Part-1-Example-Code.sql
 
