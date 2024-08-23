@@ -4,6 +4,11 @@ Presentation on what advance sql features we can use in OutSystems.
 ## SQLApp OutSystems Demo
 https://personal-u1aragiz.outsystemscloud.com/SQLApp/Entry1.aspx?_ts=638598438759656814
 
+## AdventureWorks sample databases
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms\
+
+>AdventureWorks2019.bak
+
 ## Example of Advance SQL in OutSystems
 
 ### $\quad$ ISULL, COALESCE and NULLIF 
